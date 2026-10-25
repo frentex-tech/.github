@@ -14,4 +14,4 @@ Never commit passwords, tokens, recovery codes, private customer data or confide
 
 Public demonstrations are illustrative. Do not describe them as production customer systems without verified approval and evidence.
 
-For business enquiries, contact **Frentextech@gmail.com**.
+For business enquiries, contact **INFO@frntextech.com**.

@@ -1,7 +1,15 @@
-# Frentex Tech organization profile
+# Frentex Tech · Organization resources
 
-This repository maintains the public GitHub organization profile in `profile/README.md` and its brand assets.
+Public company profile, brand assets and shared contribution guidance for Frentex Tech.
 
-Business contact: Frentextech@gmail.com
+- Public organization profile: `profile/README.md`
+- Contribution workflow: `CONTRIBUTING.md`
+- Private security reporting: `SECURITY.md`
+- Issue and pull request templates: `.github/`
+- Default reviewers: `@frentex-tech/engineering`
 
-Update public copy only with verified company information. Never commit credentials, recovery codes, private client files or internal account handover documents.
+Website: https://frntextech.com
+Business email: INFO@frntextech.com
+LinkedIn: https://www.linkedin.com/company/frentex-tech/
+
+Use verified company information only. Never commit credentials, private client files, recovery codes or internal account handover documents.

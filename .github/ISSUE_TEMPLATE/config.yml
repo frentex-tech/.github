@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Business enquiries / مناقشة مشروع
+    url: https://frntextech.com
+    about: Contact Frentex Tech about software development and business solutions.
+  - name: Report a security concern privately
+    url: mailto:INFO@frntextech.com
+    about: Do not publish vulnerabilities, credentials or private customer data in public issues.

@@ -3,47 +3,57 @@
 </p>
 
 <h1 align="center">Frentex Tech</h1>
-<p align="center"><strong>برمجيات تربط أعمالك</strong><br>Business software for connected operations.</p>
+<p align="center"><strong>برمجيات تربط أعمالك</strong><br>B2B software built around your business.</p>
+<p align="center">Jeddah, Saudi Arabia · Web & Mobile · CRM / ERP · Integrations · Automation</p>
 <p align="center">
-  <a href="https://frentex-tech.github.io/frentex-tech/">Explore our website</a> ·
-  <a href="mailto:Frentextech@gmail.com">Business enquiries</a> ·
+  <a href="https://frntextech.com">Website</a> ·
+  <a href="https://www.linkedin.com/company/frentex-tech/">LinkedIn</a> ·
+  <a href="mailto:INFO@frntextech.com">Discuss your project</a> ·
   <a href="https://wa.me/966592005751">WhatsApp</a>
 </p>
 
-## Software built around your business
+## From a business challenge to working software
 
-Frentex Tech focuses on software solutions for companies and enterprises in Saudi Arabia. We connect digital experiences, business systems and everyday operations through a clearly defined delivery process.
+Frentex Tech develops software solutions for companies and enterprises in Saudi Arabia. We start with the people, processes and systems behind a business, then define the software needed to connect them.
 
-| Solution | Focus |
+| Your business need | What we build |
 | --- | --- |
-| Websites & platforms | Corporate websites, customer portals and partner platforms |
-| Mobile applications | Mobile experiences for customers, employees and operations |
-| Business systems | CRM, ERP and tailored workflows scoped around business needs |
-| System integrations | APIs and connections between existing business tools |
-| Automation | Reducing repetitive steps and connecting business processes |
-| Ongoing development | Maintenance, improvements and support agreed per engagement |
+| A digital channel for customers or partners | Corporate websites, customer portals and business platforms |
+| Access to services and workflows on mobile | Mobile applications for customers, employees and operations |
+| A clearer view of customers and resources | CRM, ERP and tailored business workflows |
+| Existing systems that need to work together | API integrations and connected data flows |
+| Repetitive processes that slow teams down | Workflow automation and approval journeys |
+| Software that evolves with the business | Ongoing development, maintenance and agreed support |
 
-## How we work
+## A clear delivery process
 
 **Discover → Define → Design → Build → Validate → Deliver**
 
-We start with the business challenge, users and existing systems. Scope, deliverables and acceptance criteria guide implementation and review. Handover and support are defined for each engagement.
+- **Discover & define:** understand the challenge, users, current systems and project priorities.
+- **Design & build:** translate the agreed scope into usable interfaces and maintainable software.
+- **Validate & deliver:** review against acceptance criteria, document the solution and agree handover and support.
 
-## Explore our work
+## Our engineering workspace
 
-- [Company website and solutions](https://frentex-tech.github.io/frentex-tech/)
-- [Interactive demonstration lab](https://frentex-tech.github.io/frentex-tech/work.html)
-- [Delivery approach](https://frentex-tech.github.io/frentex-tech/process.html)
-- [Company profile — PDF](https://frentex-tech.github.io/frentex-tech/downloads/frentex-company-profile.pdf)
+This organization hosts our public company resources and selected software repositories. Public demonstrations are illustrative concepts, not claims of completed client engagements. Client systems and confidential material belong in appropriately restricted repositories.
 
-Our public demonstrations illustrate product and workflow concepts. They are not production systems or claims of completed client engagements. Public repositories do not represent the complete scope of company projects.
+- [Company website repository](https://github.com/frentex-tech/frentex-tech)
+- [Contribution guidelines](https://github.com/frentex-tech/.github/blob/main/CONTRIBUTING.md)
+- [Report a security concern privately](https://github.com/frentex-tech/.github/blob/main/SECURITY.md)
 
-## عن Frentex Tech
+## حلول برمجية تبدأ من احتياج شركتك
 
-نطوّر حلولًا برمجية للشركات والمؤسسات في السعودية، من المواقع والمنصات وتطبيقات الجوال إلى أنظمة الأعمال والتكاملات والأتمتة. نبدأ بفهم الاحتياج ونحدد النطاق والمخرجات ومعايير القبول، ثم ننتقل إلى التصميم والتنفيذ والاختبار والتسليم.
+من جدة، نطوّر حلولًا للشركات والمؤسسات: مواقع ومنصات، تطبيقات جوال، أنظمة إدارة العملاء والموارد، وتكاملات وأتمتة لإجراءات العمل.
 
-**للاستفسارات التجارية:** [Frentextech@gmail.com](mailto:Frentextech@gmail.com) · [أستاذ سيراج — WhatsApp](https://wa.me/966592005751)
+نبدأ بفهم التحدي وتحديد النطاق والمخرجات ومعايير القبول، ثم ننتقل إلى التصميم والتطوير والاختبار والتسليم. يتحدد نطاق الدعم والصيانة بحسب كل مشروع.
 
----
+**هل تحتاج إلى تطوير نظام، ربط أدواتك الحالية، أو إطلاق منصة جديدة؟** شاركنا التحدي وطريقة العمل الحالية لنناقش الخطوة المناسبة.
 
-Please keep credentials, personal data and confidential project details out of public issues and discussions. Contact the team privately to discuss an engagement or report a sensitive issue.
+| تواصل معنا · Contact | |
+| --- | --- |
+| Website | [frntextech.com](https://frntextech.com) |
+| Business email | [INFO@frntextech.com](mailto:INFO@frntextech.com) |
+| Phone / WhatsApp | [+966 59 200 5751](https://wa.me/966592005751) |
+| LinkedIn | [Frentex Tech](https://www.linkedin.com/company/frentex-tech/) |
+
+Please keep credentials, personal data and confidential project details out of public issues. Contact us privately for commercial enquiries or sensitive reports.
